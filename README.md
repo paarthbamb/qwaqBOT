@@ -39,6 +39,4 @@ the bot currently doesn't handle the checkout process, so you will need to integ
    before using the bot on live websites, **test** it in a safe, non-production environment.
    make sure the bot interacts with the website as expected, including adding products to the cart and proceeding to checkout.
 
-**disclaimer**: this bot is for **educational purposes only**. always respect the terms of service of websites you interact with and ensure that your actions comply with local laws and regulations. the use of bots for purchasing items in bulk may be illegal or unethical in some regions.
-
 
